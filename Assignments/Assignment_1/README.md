@@ -1,5 +1,5 @@
-## Exercise 1
-# Employee Management System
+# Exercise 1
+## Employee Management System
 
 1. Retrieve the records from the table `EMPLOYEES` (Employee_Id, First_Name, Last_Name, Email, Phone_Number, Hire_Date, Job_Id, Salary, Commission_Pct, Manager_Id, Department_Id)
 2. Create an employee’s table with the following fields: (Emp_id, First_name, Last_name, Phone_No, Hire_date, Job_id, Emp_Salary, Comission_Pct, Manager_id, Department_id)
