@@ -1,4 +1,4 @@
-#Exercise 2
+# Exercise 2
 ## Client Management System
 
 (Exercise: update the records in the table) Create Client_master with the following fields (ClientNO, Name, Address, City, State, bal_due)
