@@ -1,4 +1,4 @@
-#Exercise 3
+# Exercise 3
 ## Teacher Management System
 
 (Exercise on Rollback and Commit commands) Create Teacher table with the following fields (Id, Name, DeptNo, Date of joining, DeptName, Location, Salary)
